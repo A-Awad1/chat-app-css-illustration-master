@@ -2,7 +2,7 @@
 
 Creating chat application with only HTML and CSS
 
-[See the website live](https://a-awad1.github.io/HTML-And-CSS-Template-chat-app-illustration-master/)
+[See the website live](https://a-awad1.github.io/chat-app-illustration-master-template/)
 
 Screenshots:
 
